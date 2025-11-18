@@ -7,12 +7,13 @@ function App() {
   return (
     <div className="App">
       <header className="App-header">
+        <div> Learn React with GitHub Pages Deployment</div>
         <div className='image-group'>
           <img src={logo} className="App-logo" alt="logo" />
           <img src={github} className="App-logo" alt="logo" />
         </div>
 
-          <div> Learn React with GitHub Pages Deployment</div>
+       
       </header>
 
          

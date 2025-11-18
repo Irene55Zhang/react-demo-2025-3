@@ -14,7 +14,10 @@
 }
 
 .App-header {
-  background-color: #e3e3e3;
+  /*background-color: #e3e3e3;*/
+  background-image: url('./assert/images/background-image-01.jpg');
+  background-repeat: no-repeat;
+  background-size: cover;
   min-height: 100vh;
   display: flex;
   flex-direction: column;
